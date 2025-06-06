@@ -1,0 +1,2 @@
+# Temperature-indicator
+detect heat
